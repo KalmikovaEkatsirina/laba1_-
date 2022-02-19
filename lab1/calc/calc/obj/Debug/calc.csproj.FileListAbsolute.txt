@@ -1,0 +1,11 @@
+D:\ООП\lab1\calc\calc\bin\Debug\calc.exe.config
+D:\ООП\lab1\calc\calc\bin\Debug\calc.exe
+D:\ООП\lab1\calc\calc\bin\Debug\calc.pdb
+D:\ООП\lab1\calc\calc\obj\Debug\calc.csproj.AssemblyReference.cache
+D:\ООП\lab1\calc\calc\obj\Debug\calc.csproj.SuggestedBindingRedirects.cache
+D:\ООП\lab1\calc\calc\obj\Debug\calc.Form1.resources
+D:\ООП\lab1\calc\calc\obj\Debug\calc.Properties.Resources.resources
+D:\ООП\lab1\calc\calc\obj\Debug\calc.csproj.GenerateResource.cache
+D:\ООП\lab1\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+D:\ООП\lab1\calc\calc\obj\Debug\calc.exe
+D:\ООП\lab1\calc\calc\obj\Debug\calc.pdb
